@@ -18,4 +18,4 @@ A Tic-Tac-Toe game built with Flutter.
 3. Run `flutter run`
 
 <img width="306" height="662" alt="Screenshot 2026-06-03 033641" src="https://github.com/user-attachments/assets/b607116e-0b16-40cc-a1ab-359856fb8ed7" />
-<img width="1080" height="2412" alt="XO GAME" src="https://github.com/user-attachments/assets/0bde261b-72c4-488c-b315-9bd1184b5d23" />
+<img width="326" height="719" alt="xo" src="https://github.com/user-attachments/assets/d39a4bf8-7af1-4f42-ac5a-cd6601a8e6f4" />
